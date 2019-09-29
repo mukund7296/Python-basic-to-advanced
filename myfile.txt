@@ -1,0 +1,4 @@
+this is python file io tutorial
+this is python file io example
+this is python file handling tutorial
+this is python file handling example

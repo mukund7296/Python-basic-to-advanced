@@ -1,0 +1,13 @@
+from tkinter import *;
+win = Tk();
+win.title("Python GUI - Creating Buttons in another way");
+win.geometry("300x100");
+app = Frame(win);
+app.grid();
+buttonA = Button(app);
+buttonA.grid();
+buttonA.configure(text = "Button A");
+buttonB = Button(app);
+buttonB.grid();
+buttonB["text"] = "Button B";
+win.mainloop();

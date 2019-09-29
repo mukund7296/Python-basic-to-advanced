@@ -1,0 +1,12 @@
+def add(x,y):
+    return x+y
+def diff(x,y):
+    return x-y
+def mul(x,y):
+    return x*y
+def divi(x,y):
+    return x/y
+def pow(x,y):
+    return x**y
+def modu(x,y):
+    return x%y
